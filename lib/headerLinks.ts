@@ -4,10 +4,6 @@ export const headerLinks = [
     hash: '#home',
   },
   {
-    name: 'About',
-    hash: '#about',
-  },
-  {
     name: 'Projects',
     hash: '#projects',
   },
